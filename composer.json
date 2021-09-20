@@ -1,0 +1,22 @@
+{
+    "name": "camarasouleymane/testunitaire",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\tests": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "souleymane camara",
+            "email": "csouleymane025@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
