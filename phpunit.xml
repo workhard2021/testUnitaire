@@ -2,7 +2,7 @@
 <phpunit  verbose="true">
         <testsuites>
             <testsuite name="mon test fonctionel">
-               <directory>./tests/calcul/fonctionel</directory>
+               <directory>./tests/calcul/autre</directory>
             </testsuite>
            <testsuite name="mon unitaire">
                <directory>./tests/unitaire</directory>
