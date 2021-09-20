@@ -8,5 +8,4 @@
                <directory>./tests/unitaire</directory>
             </testsuite>
         </testsuites>
-        
 </phpunit>
