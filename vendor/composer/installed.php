@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '35577d39a7de4677044c21ad00aff1dc174ba9c2',
         'name' => 'camarasouleymane/testunitaire',
         'dev' => true,
     ),
     'versions' => array(
         'camarasouleymane/testunitaire' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '35577d39a7de4677044c21ad00aff1dc174ba9c2',
             'dev_requirement' => false,
         ),
         'doctrine/instantiator' => array(

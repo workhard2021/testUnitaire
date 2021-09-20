@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<phpunit>
- <testsuites>
-  <testsuite name="Test fonctionnel">
-    <directory>./tests/fonctionnel</directory>
-  </testsuite>
-</testsuites>
+<phpunit  verbose="true">
+        <testsuites>
+            <testsuite name="mon test fonctionel">
+               <directory>./tests/calcul/fonctionel</directory>
+            </testsuite>
+           <testsuite name="mon unitaire">
+               <directory>./tests/unitaire</directory>
+            </testsuite>
+        </testsuites>
 </phpunit>
